@@ -332,7 +332,7 @@ pcall(chilliSetProperty, objects.obj9, "SizeConstraint", Enum.SizeConstraint.Rel
 pcall(chilliSetProperty, objects.obj9, "ZIndex", 6)
 pcall(chilliSetProperty, objects.obj9, "AutomaticSize", Enum.AutomaticSize.None)
 pcall(chilliSetProperty, objects.obj9, "LayoutOrder", 0)
-pcall(chilliSetProperty, objects.obj9, "Text", "Chilli Hub")
+pcall(chilliSetProperty, objects.obj9, "Text", "Jing Hub")
 pcall(chilliSetProperty, objects.obj9, "TextColor3", Color3.fromRGB(255,255,255))
 pcall(chilliSetProperty, objects.obj9, "TextTransparency", 0)
 pcall(chilliSetProperty, objects.obj9, "TextStrokeColor3", Color3.fromRGB(0,0,0))
